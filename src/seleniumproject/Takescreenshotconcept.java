@@ -11,7 +11,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Takescreenshotconcept {
-	
+	//@author=ankitamaitra
 	public static void main(String[] args) {
 		
 		System.setProperty("webdriver.chrome.driver", "/Users/ankitamaitra/Documents/chromedriver");
